@@ -1,0 +1,156 @@
+{
+  "MenuItems": [
+    {
+      "ItemID": 120,
+      "Name": "TACOS POULET",
+      "Description": "",
+      "Price": 30,
+      "CategoryID": 1,
+      "Ingredients": "",
+      "Image": "https://images.pexels.com/photos/7613568/pexels-photo-7613568.jpeg?auto=compress&cs=tinysrgb&w=300"
+    },
+    {
+      "ItemID": 121,
+      "Name": "TACOS Margaz",
+      "Description": "",
+      "Price": 37,
+      "CategoryID": 1,
+      "Ingredients": "",
+      "Image": "https://images.pexels.com/photos/7613568/pexels-photo-7613568.jpeg?auto=compress&cs=tinysrgb&w=300"
+    },
+    {
+      "ItemID": 120,
+      "Name": "TACOS MIXTE",
+      "Description": "",
+      "Price": 50,
+      "CategoryID": 1,
+      "Ingredients": "",
+      "Image": "https://th.bing.com/th/id/OIP.VOp1qj8S2NWL3JHJJYsWiAHaHa?rs=1&pid=ImgDetMain"
+    },
+    {
+      "ItemID": 125,
+      "Name": "TACOS vionde hachee",
+      "Description": "",
+      "Price": 30,
+      "CategoryID": 1,
+      "Ingredients": "",
+      "Image": "https://images.pexels.com/photos/7613568/pexels-photo-7613568.jpeg?auto=compress&cs=tinysrgb&w=300"
+    },
+    {
+      "ItemID": 130,
+      "Name": "TACOS jambo",
+      "Description": "",
+      "Price": 32,
+      "CategoryID": 1,
+      "Ingredients": "",
+      "Image": "https://images.pexels.com/photos/7613568/pexels-photo-7613568.jpeg?auto=compress&cs=tinysrgb&w=300"
+    },
+    {
+      "ItemID": 121,
+      "Name": "Cheeseburger",
+      "Description": "",
+      "Price": 30,
+      "CategoryID": 2,
+      "Ingredients": "",
+      "Image": "https://images.pexels.com/photos/70497/pexels-photo-70497.jpeg?auto=compress&cs=tinysrgb&w=300"
+    },
+    {
+      "ItemID": 123,
+      "Name": "Margherita Pizza",
+      "Description": "",
+      "Price": 25,
+      "CategoryID": 3,
+      "Ingredients": "",
+      "Image": "https://images.pexels.com/photos/604969/pexels-photo-604969.jpeg?auto=compress&cs=tinysrgb&w=300"
+    }
+  ],
+  "Inventory": [
+    {
+      "IngredientID": null,
+      "Name": "",
+      "Quantity": null,
+      "Unit of Measurement": "",
+      "Reorder Level": null,
+      "SupplierID": null
+    }
+  ],
+  "Suppliers": [
+    {
+      "SupplierID": null,
+      "Name": "",
+      "Contact Information": "",
+      "Address": ""
+    }
+  ],
+  "Orders": [
+    {
+      "OrderID": null,
+      "CustomerID": null,
+      "OrderDate": "",
+      "TotalAmount": null,
+      "Status": "",
+      "PaymentMethod": ""
+    }
+  ],
+  "OrderDetails": [
+    {
+      "OrderDetailID": null,
+      "OrderID": null,
+      "ItemID": null,
+      "Quantity": null,
+      "PricePerItem": null
+    }
+  ],
+  "Customers": [
+    {
+      "CustomerID": null,
+      "Name": "",
+      "Contact Information": "",
+      "LoyaltyPoints": null
+    }
+  ],
+  "Employees": [
+    {
+      "EmployeeID": null,
+      "Name": "",
+      "Position": "",
+      "Contact Information": "",
+      "HourlyWage": null
+    }
+  ],
+  "Shifts": [
+    {
+      "ShiftID": null,
+      "EmployeeID": null,
+      "ShiftDate": "",
+      "StartTime": "",
+      "EndTime": ""
+    }
+  ],
+  "Categories": [
+    {
+      "CategoryID": 1,
+      "Name": "Mexican",
+      "Image": "https://images.pexels.com/photos/7613568/pexels-photo-7613568.jpeg?auto=compress&cs=tinysrgb&w=300"
+    },
+    {
+      "CategoryID": 2,
+      "Name": "Burgers",
+      "Image": "https://images.pexels.com/photos/70497/pexels-photo-70497.jpeg?auto=compress&cs=tinysrgb&w=300"
+    },
+    {
+      "CategoryID": 3,
+      "Name": "Pizza",
+      "Image": "https://images.pexels.com/photos/604969/pexels-photo-604969.jpeg?auto=compress&cs=tinysrgb&w=300"
+    }
+  ],
+  "PackageDeals": [
+    {
+      "DealID": null,
+      "Name": "",
+      "Description": "",
+      "Price": null,
+      "ItemsIncluded": ""
+    }
+  ]
+}
